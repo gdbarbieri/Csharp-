@@ -1,0 +1,15 @@
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.AssemblyInfo.cs
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\ex03\ex03\bin\Debug\net6.0\ex03.exe
+D:\Desktop\Projetos\ex03\ex03\bin\Debug\net6.0\ex03.deps.json
+D:\Desktop\Projetos\ex03\ex03\bin\Debug\net6.0\ex03.runtimeconfig.json
+D:\Desktop\Projetos\ex03\ex03\bin\Debug\net6.0\ex03.dll
+D:\Desktop\Projetos\ex03\ex03\bin\Debug\net6.0\ex03.pdb
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.dll
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\refint\ex03.dll
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.pdb
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ex03.genruntimeconfig.cache
+D:\Desktop\Projetos\ex03\ex03\obj\Debug\net6.0\ref\ex03.dll

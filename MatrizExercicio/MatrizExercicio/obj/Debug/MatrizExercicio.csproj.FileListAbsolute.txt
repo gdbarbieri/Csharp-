@@ -1,0 +1,8 @@
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\bin\Debug\MatrizExercicio.exe.config
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\bin\Debug\MatrizExercicio.exe
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\bin\Debug\MatrizExercicio.pdb
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\obj\Debug\MatrizExercicio.csproj.AssemblyReference.cache
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\obj\Debug\MatrizExercicio.csproj.SuggestedBindingRedirects.cache
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\obj\Debug\MatrizExercicio.csproj.CoreCompileInputs.cache
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\obj\Debug\MatrizExercicio.exe
+d:\Desktop\Projetos\MatrizExercicio\MatrizExercicio\obj\Debug\MatrizExercicio.pdb

@@ -1,0 +1,15 @@
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\bin\Debug\net6.0\Exercicio for 04.exe
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\bin\Debug\net6.0\Exercicio for 04.deps.json
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\bin\Debug\net6.0\Exercicio for 04.runtimeconfig.json
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\bin\Debug\net6.0\Exercicio for 04.dll
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\bin\Debug\net6.0\Exercicio for 04.pdb
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.AssemblyInfo.cs
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.dll
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\refint\Exercicio for 04.dll
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.pdb
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\Exercicio for 04.genruntimeconfig.cache
+D:\Desktop\Projetos\Exercicio for 04\Exercicio for 04\obj\Debug\net6.0\ref\Exercicio for 04.dll

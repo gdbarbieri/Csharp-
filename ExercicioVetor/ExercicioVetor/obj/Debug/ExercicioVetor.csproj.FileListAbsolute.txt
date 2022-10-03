@@ -1,0 +1,8 @@
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.exe.config
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.exe
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.pdb
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.exe
+D:\Desktop\Projetos\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.pdb

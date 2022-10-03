@@ -1,0 +1,15 @@
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\bin\Debug\net6.0\Exercicio de fixação 03.exe
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\bin\Debug\net6.0\Exercicio de fixação 03.deps.json
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\bin\Debug\net6.0\Exercicio de fixação 03.runtimeconfig.json
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\bin\Debug\net6.0\Exercicio de fixação 03.dll
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\bin\Debug\net6.0\Exercicio de fixação 03.pdb
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.AssemblyInfo.cs
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.dll
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\refint\Exercicio de fixação 03.dll
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.pdb
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\Exercicio de fixação 03.genruntimeconfig.cache
+D:\Desktop\Projetos\Exercicio de fixação 03\Exercicio de fixação 03\obj\Debug\net6.0\ref\Exercicio de fixação 03.dll

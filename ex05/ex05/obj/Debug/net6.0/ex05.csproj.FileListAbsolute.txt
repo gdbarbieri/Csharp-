@@ -1,0 +1,15 @@
+D:\Desktop\Projetos\ex05\ex05\bin\Debug\net6.0\ex05.exe
+D:\Desktop\Projetos\ex05\ex05\bin\Debug\net6.0\ex05.deps.json
+D:\Desktop\Projetos\ex05\ex05\bin\Debug\net6.0\ex05.runtimeconfig.json
+D:\Desktop\Projetos\ex05\ex05\bin\Debug\net6.0\ex05.dll
+D:\Desktop\Projetos\ex05\ex05\bin\Debug\net6.0\ex05.pdb
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.AssemblyInfo.cs
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.dll
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\refint\ex05.dll
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.pdb
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ex05.genruntimeconfig.cache
+D:\Desktop\Projetos\ex05\ex05\obj\Debug\net6.0\ref\ex05.dll
