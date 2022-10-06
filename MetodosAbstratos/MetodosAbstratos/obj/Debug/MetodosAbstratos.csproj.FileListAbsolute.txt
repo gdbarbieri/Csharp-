@@ -1,0 +1,8 @@
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe.config
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\bin\Debug\MetodosAbstratos.pdb
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.exe
+D:\Desktop\Projetos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.pdb

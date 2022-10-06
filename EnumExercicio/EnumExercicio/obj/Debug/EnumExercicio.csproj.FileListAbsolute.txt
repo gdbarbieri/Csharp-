@@ -1,0 +1,8 @@
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\bin\Debug\EnumExercicio.exe.config
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\bin\Debug\EnumExercicio.exe
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\bin\Debug\EnumExercicio.pdb
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\obj\Debug\EnumExercicio.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\obj\Debug\EnumExercicio.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\obj\Debug\EnumExercicio.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\obj\Debug\EnumExercicio.exe
+D:\Desktop\Projetos\EnumExercicio\EnumExercicio\obj\Debug\EnumExercicio.pdb

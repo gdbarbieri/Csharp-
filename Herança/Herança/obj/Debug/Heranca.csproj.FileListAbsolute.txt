@@ -1,0 +1,8 @@
+D:\Desktop\Projetos\Herança\Herança\bin\Debug\Herança.exe.config
+D:\Desktop\Projetos\Herança\Herança\bin\Debug\Herança.exe
+D:\Desktop\Projetos\Herança\Herança\bin\Debug\Herança.pdb
+D:\Desktop\Projetos\Herança\Herança\obj\Debug\Heranca.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\Herança\Herança\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Projetos\Herança\Herança\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\Herança\Herança\obj\Debug\Herança.exe
+D:\Desktop\Projetos\Herança\Herança\obj\Debug\Herança.pdb
